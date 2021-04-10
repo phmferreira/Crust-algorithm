@@ -1,0 +1,1 @@
+qvoronoi p < in.txt > out.txt
